@@ -1,6 +1,6 @@
 ## Screenshots
 
-![App Screenshot](../dashboard.png)
+![App Screenshot](https://github.com/viniciusnascimento95/dashgo-chakra-ui/blob/main/dashboard.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
